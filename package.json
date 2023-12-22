@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "type": "module",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro check && astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/check": "0.3.4",
+    "@astrojs/solid-js": "3.0.2",
+    "@astrojs/tailwind": "5.0.4",
+    "@prisma/client": "5.7.1",
+    "@types/nodemailer": "6.4.14",
+    "astro": "4.0.7",
+    "nodemailer": "6.9.7",
+    "prettier": "2.8.4",
+    "prettier-plugin-astro": "0.8.0",
+    "prettier-plugin-tailwindcss": "0.2.4",
+    "prisma": "5.7.1",
+    "solid-js": "1.8.7",
+    "tailwindcss": "3.4.0",
+    "typescript": "5.3.3"
+  }
+}

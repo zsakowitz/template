@@ -1,0 +1,18 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    ".gitignore": true,
+    ".prettierignore": true,
+    "README.md": false,
+    "LICENSE-*": true,
+    "astro.config.mjs": true,
+    "package.json": true,
+    "tailwind.config.mjs": true,
+    "tsconfig.json": true
+  }
+}
